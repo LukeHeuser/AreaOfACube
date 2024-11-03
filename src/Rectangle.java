@@ -29,7 +29,6 @@ public class Rectangle {
         return length * width;
     }
 
-
     @Override
     public String toString() {
         return "Rectangle{" +
